@@ -1,0 +1,169 @@
+{
+  "data": {
+    "amp": {
+      "schema": {
+        "name": "xsuite",
+        "version": "2.2.0"
+      },
+      "data": {
+        "faqList": [
+          {
+            "schema": {
+              "name": "xgroup",
+              "version": "1.0.0"
+            },
+            "data": {
+              "listTitle": "Stock",
+              "faqList": [
+                {
+                  "schema": {
+                    "name": "xlists",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "listTitle": "topic1",
+                    "faqs": [
+                      {
+                        "schema": {
+                          "name": "xfaq",
+                          "version": "1.0.0"
+                        },
+                        "data": {
+                          "question": "sfasdfa?",
+                          "answer": "adsfgsdfg."
+                        }
+                      },
+                      {
+                        "schema": {
+                          "name": "xfaq",
+                          "version": "1.0.0"
+                        },
+                        "data": {
+                          "question": "sfasdfa?",
+                          "answer": "adsfgsdfg."
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "schema": {
+              "name": "xlists",
+              "version": "1.0.0"
+            },
+            "data": {
+              "listTitle": "group2",
+              "faqs": [
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                },
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                },
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "schema": {
+              "name": "xlists",
+              "version": "1.0.0"
+            },
+            "data": {
+              "listTitle": "topic2",
+              "faqs": [
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                },
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "schema": {
+              "name": "xlists",
+              "version": "1.0.0"
+            },
+            "data": {
+              "listTitle": "topic3",
+              "faqs": [
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                },
+                {
+                  "schema": {
+                    "name": "xfaq",
+                    "version": "1.0.0"
+                  },
+                  "data": {
+                    "question": "sfasdfa?",
+                    "answer": "adsfgsdfg."
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "schema": {
+              "name": "xfaq",
+              "version": "1.0.0"
+            },
+            "data": {
+              "question": "sfasdfa?",
+              "answer": "adsfgsdfg."
+            }
+          }
+        ]
+      }
+    }
+  }
+}
